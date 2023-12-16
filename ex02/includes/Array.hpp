@@ -6,7 +6,7 @@
 /*   By: yuboktae <yuboktae@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/13 19:36:32 by yuboktae          #+#    #+#             */
-/*   Updated: 2023/12/15 15:01:54 by yuboktae         ###   ########.fr       */
+/*   Updated: 2023/12/16 18:11:59 by yuboktae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 # define RESET "\033[0m"
 # define MAGENTA "\033[1;35m"
 # define CYAN "\033[1;36m"
+# define RED "\033[1;31m"
 
 # include <iostream>
 # include <exception>
